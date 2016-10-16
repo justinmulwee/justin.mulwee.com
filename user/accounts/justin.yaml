@@ -1,0 +1,11 @@
+email: justin@mulwee.com
+fullname: 'Justin Mulwee'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$pshxirRwXfHpwEpZWbJLcOuponwkB8p6S.TI64JHfRNraHDeBdhpC
