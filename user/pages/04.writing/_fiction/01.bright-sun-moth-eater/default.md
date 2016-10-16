@@ -1,8 +1,6 @@
 ---
-title: Bright Sun, Moth Eater
+title: 'Bright Sun, Moth Eater'
 ---
-
-# Bright Sun, Moth Eater
 
 On the outskirts of the Sahara there was a forgettable little nothing-town with a miserable old tavern called the White Rat which served intolerable food and pretty decent beer. The only thing worse than the food was the patronage, a rowdy bunch of drunk bastards with about as much class as a family of pigs in a mud hole. It was filled exclusively with middle-aged men with the exception of two employees: a gypsy dancer and an innocent-looking server girl with freckles and small hands. Luckily for the server girl, she had a plainish face and a chest flat as a plank which at least slightly reduced the volume of lewd sexual comments she received walking to and from the half-dozen tables in the room. Male attention was instead diverted to the gypsy, who was a recent hire.
 

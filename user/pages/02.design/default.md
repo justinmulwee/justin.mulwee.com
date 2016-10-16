@@ -1,6 +1,7 @@
 ---
-title: UX/UI
+title: 'UX / UI'
 ---
+
 I’m a designer at heart. I mention it because I know some designers who are artists at heart — the poor souls. Though I admire fine artists, I better empathize with architects and city planners and industrial designers: people whose art is also invention, people who demand that their work be tested, thrown around and trampled by pedestrians.
 
 I’m a designer because I like problem solving. I don’t mean problems like “How can we convince millennials to buy furniture?” That’s marketing and it’s not what I do. I work out the complicated, practical conundrums of interface design, like

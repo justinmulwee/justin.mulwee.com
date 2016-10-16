@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Arvo|Averia+Serif+Libre:300,300i,400");
+@import url("https://fonts.googleapis.com/css?family=Quicksand:300,400,700|Ubuntu|Ubuntu+Mono");
 html {
   box-sizing: border-box; }
 
@@ -13,7 +13,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-family: "Arvo", serif;
+  font-family: "Ubuntu", serif;
   font-size: 1em;
   -webkit-font-smoothing: antialiased;
   font-weight: 600;
@@ -54,7 +54,7 @@ input,
 select,
 textarea {
   display: block;
-  font-family: "Arvo", serif;
+  font-family: "Ubuntu", serif;
   font-size: 1em; }
 
 input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], input:not([type]), textarea {
@@ -157,9 +157,10 @@ th {
 
 body {
   color: #333;
-  font-family: "Arvo", serif;
+  font-family: "Ubuntu", serif;
   font-size: 1em;
-  line-height: 1.5; }
+  line-height: 1.5;
+  padding-top: 40px; }
 
 a {
   color: #1565c0;
@@ -169,15 +170,18 @@ a {
     color: #104c90; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Averia Serif Libre", helvetica, sans-serif;
-  font-weight: 300; }
+  font-family: "Quicksand", helvetica, sans-serif;
+  font-weight: 400; }
 
 h1 {
   margin-top: 0;
   font-size: 3em; }
 
 header {
-  font-family: "Averia Serif Libre", helvetica, sans-serif; }
+  font-family: "Quicksand", helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: 104px;
+  padding-right: 10px; }
 
 body {
   max-width: 800px;
