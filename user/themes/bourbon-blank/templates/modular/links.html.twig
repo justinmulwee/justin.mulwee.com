@@ -1,0 +1,7 @@
+{{ page.content }}
+
+<ul>
+{% for p in page.collection %}
+	<li><a href="{{p.url}}">{{ p.title }}</a></li>
+{% endfor %}
+</ul>

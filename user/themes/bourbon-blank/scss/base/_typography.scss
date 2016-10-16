@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Averia+Serif+Libre:300,300i,400');
+// @import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+ // @import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+
+
+body {
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+a {
+  color: $action-color;
+  text-decoration: none;
+  transition: color $base-duration $base-timing;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: shade($action-color, 25%);
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  font-weight: 300;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3em;
+}
+
+header {
+  font-family: $heading-font-family;
+}
