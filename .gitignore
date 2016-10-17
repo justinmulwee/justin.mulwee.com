@@ -2,12 +2,3 @@ cache/
 *.scssc
 
 *.map
-logs/popularity/totals.json
-
-logs/popularity/monthly.json
-
-logs/popularity/daily.json
-
-logs/popularity/visitors.json
-
-logs/grav.log
