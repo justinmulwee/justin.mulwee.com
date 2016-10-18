@@ -47,7 +47,7 @@ form:
             recatpcha_secret: 6LcgnQkUAAAAABZgEPoHHhGkhprj56JeL8IJm8NO
         - email:
             subject: "{{ form.value.name|e }} messaged you via justin.mulwee.com"
-            body: "{% include 'forms/data.html.twig' %}"
+            body: "{{ form.value.message }}"
             from: "{{ form.value.email }}"
             from_name: "{{ form.value.name }}"
         - save:

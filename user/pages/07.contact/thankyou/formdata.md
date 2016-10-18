@@ -1,0 +1,5 @@
+---
+title: Sent
+---
+
+# Message Sent.
