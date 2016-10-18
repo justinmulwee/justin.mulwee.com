@@ -56,4 +56,4 @@ form:
 
 # Contact Justin
 
-I know some people ignore their contact form, but whether it's personal or professional I read every message and usually reply by the next day.
+Send me a message, personal or professional. I read every message and usually reply by the next day.
