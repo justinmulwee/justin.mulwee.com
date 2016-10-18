@@ -46,8 +46,10 @@ form:
         - captcha:
             recatpcha_secret: 6LcgnQkUAAAAABZgEPoHHhGkhprj56JeL8IJm8NO
         - email:
-            subject: "[Site Contact Form] {{ form.value.name|e }}"
+            subject: "{{ form.value.name|e }} messaged you via justin.mulwee.com"
             body: "{% include 'forms/data.html.twig' %}"
+            from: "{{ form.value.email }}"
+            from_name: "{{ form.value.name }}"
         - save:
             fileprefix: contact-
             dateformat: Ymd-His-u

@@ -3,11 +3,13 @@ from: justin@mulwee.com
 from_name: justin.mulwee.com
 to: justin@mulwee.com
 mailer:
-  engine: mail
+  engine: smtp
   smtp:
-    server: localhost
-    port: 25
+    server: mail.smtp2go.com
+    port: 2525
     encryption: none
+    user: viemexis@gmail.com
+    password: ne6OrJGOGvDs
   sendmail:
     bin: /usr/sbin/sendmail
 content_type: text/html
