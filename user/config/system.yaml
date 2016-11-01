@@ -1,4 +1,5 @@
 absolute_urls: false
+timezone: America/Detroit
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
