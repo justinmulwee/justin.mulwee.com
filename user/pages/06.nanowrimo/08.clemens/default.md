@@ -18,7 +18,7 @@ Child-like models were not a common feature of his photography, but deformed wom
 
 His photos were never pornographic — at least according to his fans — but they were certainly sensual, and at the same time mundane. A naked woman with missing legs lying in bed with a pearl necklace. A picture of his own hand applying makeup to a blind woman.
 
-Critics accused him of “fetishizing the disabled and unfortunate” and lampooned him for “getting rich off making creepy Bordeaux photos of the deformed.”
+Critics accused him of “fetishizing the disabled and unfortunate” and lampooned him for “getting rich off making creepy boudoir photos of the deformed.”
 
 He was a notoriously private, reclusive man even in his youth, and his studio was part of his own, large house. The women he photographed were possibly the only people to see his home from the inside. Some stayed with him for weeks on end.
 
