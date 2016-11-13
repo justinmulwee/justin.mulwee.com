@@ -7,7 +7,7 @@ content:
         dir: desc
 ---
 
-<div style="margin: auto; text-align: center; width: 100%;" title="40.74%"><div style="text-align: left; margin: 2px auto; font-size: 0px; line-height: 0px; background: #DDDDDD; overflow: hidden; "><div style="font-size: 0px; line-height: 0px; height: 15px; min-width: 0%; max-width: 40.74%; width: 40.74%; background: #E84F02; "><!----></div></div><div style="font-size: 8pt; font-family: monospace; ">20372 &#47; 50000 (40.74%)</div></div>
+<div style="margin: auto; text-align: center; width: 100%;" title="44.77%"><div style="text-align: left; margin: 2px auto; font-size: 0px; line-height: 0px; background: #DDDDDD; overflow: hidden; "><div style="font-size: 0px; line-height: 0px; height: 15px; min-width: 0%; max-width: 44.77%; width: 44.77%; background: #E84F02; "><!----></div></div><div style="font-size: 8pt; font-family: monospace; ">22386 &#47; 50000 (44.77%)</div></div>
 
 <div style="margin: auto; text-align: center; width: 100%;" title="40.00%"><div style="text-align: left; margin: 2px auto; font-size: 0px; line-height: 0px; background: #DDDDDD; overflow: hidden; "><div style="font-size: 0px; line-height: 0px; height: 3px; min-width: 0%; max-width: 40.00%; width: 40.00%; background: #1D3D8D; "><!----></div></div><div style="font-size: 8pt; font-family: monospace; ">12 &#47; 30</div></div>
 
