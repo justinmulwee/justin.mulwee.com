@@ -7,8 +7,8 @@ content:
         dir: desc
 ---
 
-<div style="margin: auto; text-align: center; width: 100%;" title="44.77%"><div style="text-align: left; margin: 2px auto; font-size: 0px; line-height: 0px; background: #DDDDDD; overflow: hidden; "><div style="font-size: 0px; line-height: 0px; height: 15px; min-width: 0%; max-width: 44.77%; width: 44.77%; background: #E84F02; "><!----></div></div><div style="font-size: 8pt; font-family: monospace; ">22386 &#47; 50000 (44.77%)</div></div>
+<div style="margin: auto; text-align: center; width: 100%;" title="49.04%"><div style="text-align: left; margin: 2px auto; font-size: 0px; line-height: 0px; background: #DDDDDD; overflow: hidden; "><div style="font-size: 0px; line-height: 0px; height: 15px; min-width: 0%; max-width: 49.04%; width: 49.04%; background: #E84F02; "><!----></div></div><div style="font-size: 8pt; font-family: monospace; ">24518 &#47; 50000 (49.04%)</div></div>
 
-<div style="margin: auto; text-align: center; width: 100%;" title="40.00%"><div style="text-align: left; margin: 2px auto; font-size: 0px; line-height: 0px; background: #DDDDDD; overflow: hidden; "><div style="font-size: 0px; line-height: 0px; height: 3px; min-width: 0%; max-width: 40.00%; width: 40.00%; background: #1D3D8D; "><!----></div></div><div style="font-size: 8pt; font-family: monospace; ">12 &#47; 30</div></div>
+<div style="margin: auto; text-align: center; width: 100%;" title="50.00%"><div style="text-align: left; margin: 2px auto; font-size: 0px; line-height: 0px; background: #DDDDDD; overflow: hidden; "><div style="font-size: 0px; line-height: 0px; height: 3px; min-width: 0%; max-width: 50.00%; width: 50.00%; background: #1D3D8D; "><!----></div></div><div style="font-size: 8pt; font-family: monospace; ">15 &#47; 30</div></div>
 
 <p style="color: gray">November is national novel writing month. I will be drafting a science fiction novel tentatively titled Vermilion. Now as Hemingway said, first draft of anything is shit. Everything on this page is shit. I'm only putting it online to create for myself a threat of public failure if I *don't* do something I said I was going to do.</p>
