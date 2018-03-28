@@ -2,6 +2,8 @@
 title: 'Autobiography of a Human Melting Pot'
 ---
 
+Editor's note: this little essay is ancient. Just keep that in mind.
+
 I’ve always heard that mixed kids are confused about their “racial identity.” The only thing that confuses me about racial identity is the term. I don’t have a racial identity, at least not that I know of. I have a color—it’s sort of a medium-light brown. I have an ethnicity, I guess. I have a lot of ethnicities: German, African, Irish, a dash of Native American—I’m basically a mutt. People try to guess my ethnicity, and I get some pretty interesting guesses: Mexican, South American, Cuban, Persian, and my personal favorite, Egyptian. I can pass for nearly anything and most would not question it—I look just that ambiguous. I feel ambiguous, too. I don’t know where I’d get a racial identity, and if I got one I can’t imagine what in the world I would do with it.
 
 Not everyone is okay with that. In an interview with the Seattle Post, one biracial man says, “I have a big problem with people who identify themselves as biracial or multiracial. There’s a lot of ambiguity in that”(Rodriguez par. 2). As for me, I like it that way—I’ve always felt like choosing a race would be like choosing a personality out of a catalog. In any case, I won’t claim all mixed people have some unified sense of identity; we certainly don’t. We each decide for our own reasons.
